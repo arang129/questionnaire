@@ -1,5 +1,6 @@
 voila
 voila-material
-bqplot
+datetime
+time
 ipywidgets
 IPython
