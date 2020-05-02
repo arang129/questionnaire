@@ -1,6 +1,4 @@
 voila
 voila-material
-datetime
-time
 ipywidgets
 IPython
