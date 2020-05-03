@@ -4,6 +4,5 @@ ipywidgets
 IPython
 datetime
 pandas
-sqlite3
 matplotlib
 numpy
