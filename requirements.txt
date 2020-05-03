@@ -1,5 +1,5 @@
-voila==0.1.21
+voila
 voila-material
-ipywidgets==7.4.1
-IPython==7.8.0
+ipywidgets
+IPython
 datetime
