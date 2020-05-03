@@ -1,5 +1,4 @@
 voila==0.1.21
-voila-material>=0.2.4
 ipykernel
 ipython
 ipython-genutils
