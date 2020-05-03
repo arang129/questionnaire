@@ -1,5 +1,7 @@
-voila
+voila>=0.1.8
 voila-material
+ipyvuetify>=0.1.9
+voila-vuetify>=0.0.1a6
 ipywidgets
 IPython
 datetime
